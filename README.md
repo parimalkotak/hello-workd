@@ -1,2 +1,2 @@
-# hello-workd
+# hello-world
 creating my first repository
